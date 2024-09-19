@@ -1,2 +1,2 @@
-https://renusree7/.github.io/index.html
+https://renusree7.github.io/index.html
 
