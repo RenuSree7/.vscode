@@ -1,2 +1,2 @@
-https://RenuSree7.github.io/assignmentf.html
+https://RenuSree7.github.io/index.html
 
