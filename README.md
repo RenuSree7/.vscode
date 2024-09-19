@@ -1,2 +1,2 @@
-https://RenuSree7.github.io/README.md
+https://RenuSree7.github.io/index.html
 
