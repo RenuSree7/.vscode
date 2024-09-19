@@ -1,2 +1,2 @@
-https://RenuSree7.github.io/index.html
+https://RenuSree7/.vscode.github.io/index.html
 
