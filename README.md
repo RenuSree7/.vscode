@@ -1,1 +1,1 @@
- https://.vscode.RenuSree7.github.io/food-delivery/
+ https://RenuSree7/.vscode.github.io/food-delivery/
